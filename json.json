@@ -9,7 +9,7 @@
         {
             "type": "packetgen",
             "count": 3,
-            "name": "https://kamgov.ru/",
+            "name": "https://test.ru/",
             "args": {
                 "connection": {
                     "type": "net",
