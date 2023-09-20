@@ -9,7 +9,7 @@
         {
             "type": "packetgen",
             "count": 3,
-            "name": "https://kamgov.ru/",
+            "name": "https://test.ru/",
             "args": {
                 "connection": {
                     "type": "net",
@@ -23,7 +23,7 @@
                         "type": "http",
                         "data": {
                             "method": "POST",
-                            "path": "https://eao.ru/",
+                            "path": "81.161.114.128",
                             "headers": {
                                 "Accept": "*/*",
                                 "Accept-Encoding": "gzip, deflate, br",
