@@ -23,7 +23,7 @@
                         "type": "http",
                         "data": {
                             "method": "POST",
-                            "path": "http://109.232.248.83",
+                            "path": "https://kamgov.ru/",
                             "headers": {
                                 "Accept": "*/*",
                                 "Accept-Encoding": "gzip, deflate, br",
