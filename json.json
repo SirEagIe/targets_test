@@ -9,7 +9,7 @@
         {
             "type": "packetgen",
             "count": 3,
-            "name": "https://kamgov.ru/",
+            "name": "185.108.212.220",
             "args": {
                 "connection": {
                     "type": "net",
