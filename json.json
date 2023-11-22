@@ -1,4 +1,3 @@
-109.167.254.207
 {
     "jobs": [
         {
@@ -16,7 +15,7 @@
                     "type": "net",
                     "args": {
                         "protocol": "tcp",
-                        "address": "http://95.190.193.226/"
+                        "address": "http://109.167.254.207/"
                     }
                 },
                 "packet": {
