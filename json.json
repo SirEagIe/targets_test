@@ -15,7 +15,7 @@
                     "type": "net",
                     "args": {
                         "protocol": "tcp",
-                        "address": "81.161.114.81"
+                        "address": "217.25.84.254"
                     }
                 },
                 "packet": {
